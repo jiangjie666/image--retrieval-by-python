@@ -1,0 +1,2 @@
+python searchEngine.py -c colorindex.csv -s structureindex.csv -r dataset -q query/1.jpg 
+python index.py --dataset dataset --colorindex colorindex.csv --structure structureindex.csv
